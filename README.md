@@ -14,6 +14,11 @@ Um gestor de senhas desktop multiplataforma (Windows, Linux e macOS), desenvolvi
 * **Cópia Rápida:** Copia as tuas senhas diretamente para a área de transferência sem precisares de as exibir.
 * **Interface Moderna:** Visual limpo em modo escuro (*Dark Mode*) construído com `CustomTkinter`.
 
+<img width="1051" height="707" alt="image" src="https://github.com/user-attachments/assets/1fab9a8a-9cf2-40fe-a202-a16e265f12b1" />
+<img width="1047" height="705" alt="image" src="https://github.com/user-attachments/assets/1f408b11-1861-4bba-9114-53085f9aab1b" />
+
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
