@@ -1,0 +1,11 @@
+# Ignora o seu banco de dados pessoal com suas senhas reais!
+*.db
+*.sqlite3
+
+# Ignora arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignora pastas de ambiente virtual
+venv/
+.venv/
