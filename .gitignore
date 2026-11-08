@@ -9,3 +9,8 @@ __pycache__/
 # Ignora pastas de ambiente virtual
 venv/
 .venv/
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
